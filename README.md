@@ -94,13 +94,12 @@
 - API文档: https://www.wanandroid.com/blog/show/2
 
 5. 图灵机器人
-
+* 免费的请求次数较少，仅有100次，不太推荐使用。
 * API文档:http://www.turingapi.com/
 
 6. 风和日丽天气
-
+* 需要接入第三方SDK(api所需的必须依赖不算做使用第三方库)，有一定的难度
 * API文档:https://dev.heweather.com/docs/api/weather
-* 这个API可能相对简单一些，UI要好看√
 
 ## 推荐阅读
 
@@ -142,7 +141,7 @@
 
   使用MVP架构来搭建你的APP，使得你的代码井然有序。
 
-* Jetpack
+* [Jetpack](https://developer.android.com/jetpack?hl=zh-cn)
 
   Google官方的快速开发工具包，**不算作第三方库，在考核中可以使用。**
 
