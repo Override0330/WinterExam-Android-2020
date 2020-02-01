@@ -86,8 +86,8 @@
 3. Bihu
 
 - 一个简单的问答APP
-- API文档: https://github.com/PleasantWater/bihu_web
-  - 注意原有baseUrl目前不可用，请将baseUrl改为:  http://bihu.jay86.com/
+- ~~旧版本API文档: https://github.com/PleasantWater/bihu_web~~目前已不可用
+  目前可用的API文档: [点我](https://github.com/jay68/bihu_web/wiki/%E9%80%BC%E4%B9%8EAPI%E6%96%87%E6%A1%A3)
 
 4. 玩Android
 
